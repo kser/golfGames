@@ -1,8 +1,15 @@
-#Golf Games: Easily Track Scores of Wolf, Skins, & Stableford
+# Golf Games
+### Easily Track Scores of Wolf, Skins, & Stableford
 
 Built with Ionic Angular
 
 iOS and Android
+
+## Games
+* Wolf
+* Skins
+* Stableford
+* and more to come!
 
 
 ## Getting Started
